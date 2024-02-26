@@ -1,0 +1,26 @@
+.movie {
+   background-color: purple;
+   display: flex;
+   flex-direction: column;
+   width: 22%;
+   margin-top: 1.5em;
+   color: #fff;
+}
+.movie image {
+   width: 100%;
+   height: 80%;
+}
+.movie img {
+   width: 100%;
+   height: 50vh;
+}
+.movie .details {
+   width: 100%;
+   height: 20%;
+   text-align: center;
+   padding: 1em;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
